@@ -40,6 +40,7 @@ icacls C:/Users/hgsim/Documents/df-sdm/df-mod3-sdm/Files.txt /grant Administrato
 icacls redirecttext.txt /grant:r "Users:(R)"
 
 # Task 3 PowerShell Scripting
+# Backing up files in the appropriate subfiles and setting read-only conditions 
 ## Create files and subfiles 
 ### Change the directory to the root project folder
 cd C:/Users/hgsim/Documents/df-sdm/df-mod3-sdm
